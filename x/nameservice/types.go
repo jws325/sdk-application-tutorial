@@ -1,8 +1,8 @@
 package nameservice
 
 import (
-	"fmt"
-	"strings"
+	_ "fmt"
+	_ "strings"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 )
